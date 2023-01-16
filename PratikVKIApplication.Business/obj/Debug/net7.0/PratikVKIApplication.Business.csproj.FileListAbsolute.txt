@@ -1,0 +1,15 @@
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Business\bin\Debug\net7.0\PratikVKIApplication.Business.deps.json
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Business\bin\Debug\net7.0\PratikVKIApplication.Business.dll
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Business\bin\Debug\net7.0\PratikVKIApplication.Business.pdb
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Business\obj\Debug\net7.0\PratikVKIApplication.Business.csproj.AssemblyReference.cache
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Business\obj\Debug\net7.0\PratikVKIApplication.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Business\obj\Debug\net7.0\PratikVKIApplication.Business.AssemblyInfoInputs.cache
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Business\obj\Debug\net7.0\PratikVKIApplication.Business.AssemblyInfo.cs
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Business\obj\Debug\net7.0\PratikVKIApplication.Business.csproj.CoreCompileInputs.cache
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Business\obj\Debug\net7.0\PratikVKIApplication.Business.dll
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Business\obj\Debug\net7.0\refint\PratikVKIApplication.Business.dll
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Business\obj\Debug\net7.0\PratikVKIApplication.Business.pdb
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Business\obj\Debug\net7.0\ref\PratikVKIApplication.Business.dll
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Business\bin\Debug\net7.0\PratikVKIApplication.Data.dll
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Business\bin\Debug\net7.0\PratikVKIApplication.Data.pdb
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Business\obj\Debug\net7.0\PratikVKIApplication.Business.csproj.CopyComplete

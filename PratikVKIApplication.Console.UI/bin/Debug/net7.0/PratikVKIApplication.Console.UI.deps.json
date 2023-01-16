@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "PratikVKIApplication.Console.UI/1.0.0": {
+        "dependencies": {
+          "PratikVKIApplication.Business": "1.0.0"
+        },
+        "runtime": {
+          "PratikVKIApplication.Console.UI.dll": {}
+        }
+      },
+      "PratikVKIApplication.Business/1.0.0": {
+        "dependencies": {
+          "PratikVKIApplication.Data": "1.0.0"
+        },
+        "runtime": {
+          "PratikVKIApplication.Business.dll": {}
+        }
+      },
+      "PratikVKIApplication.Data/1.0.0": {
+        "runtime": {
+          "PratikVKIApplication.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PratikVKIApplication.Console.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PratikVKIApplication.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PratikVKIApplication.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

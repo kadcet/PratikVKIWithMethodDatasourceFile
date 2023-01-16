@@ -1,0 +1,12 @@
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Data\bin\Debug\net7.0\PratikVKIApplication.Data.deps.json
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Data\bin\Debug\net7.0\PratikVKIApplication.Data.dll
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Data\bin\Debug\net7.0\PratikVKIApplication.Data.pdb
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Data\obj\Debug\net7.0\PratikVKIApplication.Data.csproj.AssemblyReference.cache
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Data\obj\Debug\net7.0\PratikVKIApplication.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Data\obj\Debug\net7.0\PratikVKIApplication.Data.AssemblyInfoInputs.cache
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Data\obj\Debug\net7.0\PratikVKIApplication.Data.AssemblyInfo.cs
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Data\obj\Debug\net7.0\PratikVKIApplication.Data.csproj.CoreCompileInputs.cache
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Data\obj\Debug\net7.0\PratikVKIApplication.Data.dll
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Data\obj\Debug\net7.0\refint\PratikVKIApplication.Data.dll
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Data\obj\Debug\net7.0\PratikVKIApplication.Data.pdb
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\Ödevler\120123VKI\PratikVKIWithMethodDatasourceFile\PratikVKIApplication.Data\obj\Debug\net7.0\ref\PratikVKIApplication.Data.dll
